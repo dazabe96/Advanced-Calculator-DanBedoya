@@ -40,6 +40,7 @@ py advanced_calculator_DanBedoya.py
 
 Enjoy the calculator! 🧮
 
+![Calculator Screenshot](images/advanced_calculator.png) 
 
 👨‍💻 Author
 
