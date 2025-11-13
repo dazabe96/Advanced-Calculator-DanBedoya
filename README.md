@@ -1,21 +1,21 @@
-🧮 Advanced Calculator - Dan Bedoya
+Advanced Calculator - Dan Bedoya
 
 A modern and user-friendly calculator built with Python and Tkinter.
 This project is part of my Python learning path — improving GUI design, input validation, and event handling.
 
-🚀 Features
+- Features
 
-🖱️ Interactive GUI using Tkinter
+- Interactive GUI using Tkinter
 
-➕➖✖️➗ Basic arithmetic operations
++ - x ÷ Basic arithmetic operations
 
-💯 Percentage and sign toggle (±) support
+- Percentage and sign toggle (±) support
 
-⚡ Error handling for invalid or malformed expressions
+- Error handling for invalid or malformed expressions
 
-⌨️ Keyboard shortcuts for smooth user experience
+- Keyboard shortcuts for smooth user experience
 
-🧠 Technical Details
+- Technical Details
 
 Developed in Python 3.13
 
@@ -25,7 +25,7 @@ Custom safe evaluator to prevent code injection
 
 Replaces “×” and “÷” symbols for correct mathematical processing
 
-🧩 How to Run
+**How to Run**
 
 Clone the repository:
 
@@ -38,11 +38,11 @@ Run the project:
 py advanced_calculator_DanBedoya.py
 
 
-Enjoy the calculator! 🧮
+Enjoy the calculator! 
 
 ![Calculator Screenshot](images/advanced_calculator.png) 
 
-👨‍💻 Author
+**Author**
 
 Dan Bedoya
 📍 Saint John, New Brunswick, Canada
